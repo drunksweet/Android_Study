@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">learning</string>
+    <string name="false_btn">false</string>
+    <string name="true_btn">true</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+
+    <string name="question_text">this is a question</string>
+</resources>
