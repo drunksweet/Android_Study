@@ -75,6 +75,7 @@ public class CrimeFragment extends Fragment {
 
         mDateButton =(Button) v.findViewById(R.id.crime_date);
         mDateButton.setText(mCrime.getDate().toString());
+        //暂时无法点击，待后续添加功能
         mDateButton.setEnabled(false);
 
         mSolvedCheckBox=(CheckBox) v.findViewById(R.id.crime_solved);
