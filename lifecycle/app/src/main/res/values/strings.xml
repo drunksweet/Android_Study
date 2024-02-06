@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lifecycle</string>
+    <string name="text1">This is a normal activity</string>
+    <string name="dialogtext">This is a dialog activity</string>
+</resources>
