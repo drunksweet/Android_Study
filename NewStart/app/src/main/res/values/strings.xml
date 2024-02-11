@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewStart</string>
+    <string name="activity_main_2">activity_main_2</string>
+    <string name="activity_main">activity_main</string>
+</resources>
