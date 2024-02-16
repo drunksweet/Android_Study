@@ -9,6 +9,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NewStart">
         <activity
+            android:name=".GridlayoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RelativeLayoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LinearLayoutActivity"
+            android:exported="false" />
+        <activity
             android:name=".ViewBorderActivity"
             android:exported="false" />
         <activity
