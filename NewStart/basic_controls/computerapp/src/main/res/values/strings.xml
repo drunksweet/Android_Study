@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComputerApp</string>
+    <string name="appname">简单计算器</string>
+    <string name="ce">CE</string>
+    <string name="_7">7</string>
+    <string name="c">C</string>
+    <string name="x">X</string>
+    <string name="equal">/</string>
+</resources>

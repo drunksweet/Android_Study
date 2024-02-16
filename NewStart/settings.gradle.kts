@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "NewStart"
 include(":app")
 include(":basic_controls")
+include(":basic_controls:computerapp")
